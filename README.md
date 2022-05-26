@@ -1,2 +1,3 @@
-#CSS DERSİ ÖDEVİ
-[Patika.Dev](https://patika.dev) tarafından düzenlenen CSS dersleri kapsamından yapılan 2. ödev.
+# CSS DERSİ ÖDEV 2
+### Front-End Bootcamp Hazırlık Programı - Kodluyoruz
+- ### Google 1998 yılındaki tasarım ödevi
